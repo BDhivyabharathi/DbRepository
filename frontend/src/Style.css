@@ -1,0 +1,21 @@
+.header-nav {
+    background-color: rgb(53, 122, 124);
+    padding: 16px 32px;
+}
+
+.header-nav a {
+    color: white;
+    margin-right: 40px;
+    text-decoration: none;
+}
+
+.header-nav a.active {
+    font-weight: 800;
+    background-color: rgb(25, 63, 57);
+    padding: 10px;
+}
+
+#home-bg {
+    height:70vh;
+    width:100vw;
+}
